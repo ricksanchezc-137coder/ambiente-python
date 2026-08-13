@@ -1,0 +1,12 @@
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "meupacote"
+version = "0.1.0"
+description = "Pacote de teste - backend poetry-core (tool.poetry classico)"
+authors = ["joao <joao@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.9"
