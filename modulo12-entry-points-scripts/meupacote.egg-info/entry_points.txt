@@ -1,0 +1,2 @@
+[console_scripts]
+meucomando = meupacote.cli:main
